@@ -1,0 +1,352 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:..\..\..\..\Custom Libaries\DLLs\BrownieContentImporter.dll
+/reference:..\..\..\..\Custom Libaries\DLLs\BrownieEngine.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin blank.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:blank.png
+
+#begin coin.bmp
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:coin.bmp
+
+#begin floor.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:floor.png
+
+#begin font.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:font.png
+
+#begin Maps/alpha_L_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_B.PLF
+
+#begin Maps/alpha_L_B2.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_B2.PLF
+
+#begin Maps/alpha_L_B3.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_B3.PLF
+
+#begin Maps/alpha_L_R.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_R.PLF
+
+#begin Maps/alpha_L_R2.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_R2.PLF
+
+#begin Maps/alpha_L_R3.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_R3.PLF
+
+#begin Maps/alpha_L_T.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_T.PLF
+
+#begin Maps/alpha_L_T2.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_L_T2.PLF
+
+#begin Maps/alpha_R_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_R_B.PLF
+
+#begin Maps/alpha_R_B2.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_R_B2.PLF
+
+#begin Maps/alpha_R_T.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_R_T.PLF
+
+#begin Maps/alpha_T_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_T_B.PLF
+
+#begin Maps/alpha_T_B2.PLF
+/importer:importer
+/processor:processor
+/build:Maps/alpha_T_B2.PLF
+
+#begin Maps/beta_L_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/beta_L_B.PLF
+
+#begin Maps/beta_L_R.PLF
+/importer:importer
+/processor:processor
+/build:Maps/beta_L_R.PLF
+
+#begin Maps/beta_L_T.PLF
+/importer:importer
+/processor:processor
+/build:Maps/beta_L_T.PLF
+
+#begin Maps/beta_R_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/beta_R_B.PLF
+
+#begin Maps/beta_R_T.PLF
+/importer:importer
+/processor:processor
+/build:Maps/beta_R_T.PLF
+
+#begin Maps/bottom_door.PLF
+/importer:importer
+/processor:processor
+/build:Maps/bottom_door.PLF
+
+#begin Maps/gamma_L_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/gamma_L_B.PLF
+
+#begin Maps/gamma_L_R.PLF
+/importer:importer
+/processor:processor
+/build:Maps/gamma_L_R.PLF
+
+#begin Maps/gamma_T_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/gamma_T_B.PLF
+
+#begin Maps/left_door.PLF
+/importer:importer
+/processor:processor
+/build:Maps/left_door.PLF
+
+#begin Maps/right_door.PLF
+/importer:importer
+/processor:processor
+/build:Maps/right_door.PLF
+
+#begin Maps/test_L_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/test_L_B.PLF
+
+#begin Maps/test_L_R.PLF
+/importer:importer
+/processor:processor
+/build:Maps/test_L_R.PLF
+
+#begin Maps/test_L_T.PLF
+/importer:importer
+/processor:processor
+/build:Maps/test_L_T.PLF
+
+#begin Maps/test_R_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/test_R_B.PLF
+
+#begin Maps/test_R_T.PLF
+/importer:importer
+/processor:processor
+/build:Maps/test_R_T.PLF
+
+#begin Maps/test_T_B.PLF
+/importer:importer
+/processor:processor
+/build:Maps/test_T_B.PLF
+
+#begin Maps/top_door.PLF
+/importer:importer
+/processor:processor
+/build:Maps/top_door.PLF
+
+#begin PBRS_LOGO_2020.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:PBRS_LOGO_2020.png
+
+#begin player.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:player.png
+
+#begin sound/colour_change.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/colour_change.wav
+
+#begin sound/conveyor.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/conveyor.wav
+
+#begin sound/conveyor.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/conveyor.wav
+
+#begin sound/error.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/error.wav
+
+#begin sound/error.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/error.wav
+
+#begin sound/land.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/land.wav
+
+#begin sound/land.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/land.wav
+
+#begin sound/money_get.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/money_get.wav
+
+#begin sound/PrownieOpeningJingle.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/PrownieOpeningJingle.wav
+
+#begin sound/PrownieOpeningJingle.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/PrownieOpeningJingle.wav
+
+#begin sound/step.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/step.wav
+
+#begin sound/step.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound/step.wav
+
+#begin testblocks.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:testblocks.png
+
+#begin tiles.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:tiles.png
+
+#begin title.bmp
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:title.bmp
+

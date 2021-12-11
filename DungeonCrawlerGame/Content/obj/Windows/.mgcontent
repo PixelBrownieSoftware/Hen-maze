@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/blank.png</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/coin.bmp</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/floor.png</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/font.png</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_B2.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_B3.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_R.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_R2.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_R3.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_T.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_L_T2.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_R_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_R_B2.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_R_T.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_T_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/alpha_T_B2.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/beta_L_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/beta_L_R.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/beta_L_T.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/beta_R_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/beta_R_T.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/bottom_door.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/gamma_L_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/gamma_L_R.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/gamma_T_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/left_door.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/right_door.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/test_L_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/test_L_R.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/test_L_T.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/test_R_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/test_R_T.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/test_T_B.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/Maps/top_door.PLF</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/PBRS_LOGO_2020.png</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/player.png</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/colour_change.wav</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/conveyor.wav</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/error.wav</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/land.wav</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/money_get.wav</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/PrownieOpeningJingle.wav</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/step.wav</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/testblocks.png</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/tiles.png</File>
+    <File>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/title.bmp</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

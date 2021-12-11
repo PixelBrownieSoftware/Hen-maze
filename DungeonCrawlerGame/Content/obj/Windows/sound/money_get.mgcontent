@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/sound/money_get.wav</SourceFile>
+  <SourceTime>2019-12-10T13:56:46.8697895+00:00</SourceTime>
+  <DestFile>C:/Users/hamza/Own Games/Custom/C#/In Development/DungeonCrawlerGame/DungeonCrawlerGame/Content/bin/Windows/sound/money_get.xnb</DestFile>
+  <DestTime>2020-08-31T17:20:33.5381227+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
